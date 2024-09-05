@@ -1,0 +1,25 @@
+{
+  "name": "postman-to-k6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melonerr/postman2k6.git"
+  },
+  "keywords": [
+    "postman"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melonerr/postman2k6/issues"
+  },
+  "homepage": "https://github.com/melonerr/postman2k6#readme",
+  "dependencies": {
+    "@apideck/postman-to-k6": "^1.13.0"
+  }
+}
